@@ -33,7 +33,7 @@ x-tier-reason: acquired-defunct-no-api-surface
 x-status: acquired
 x-acquired-by: acv-auctions
 x-former-name: Zirx
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
